@@ -1,7 +1,5 @@
 # Trust Seed  - 블록체인 기반 랜덤박스 플랫폼 서비스 DAPP
 
-> 작성자 : 김정욱
-
 ## Trust Seed 소개 <code>필수</code>
 
 
